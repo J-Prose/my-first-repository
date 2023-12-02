@@ -4,3 +4,5 @@
 1. Initialize repository with git init
 2. Create changes to project files
 6. Review previous changes with git log
+
+exampl_file.txt
