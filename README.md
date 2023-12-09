@@ -6,4 +6,4 @@
 6. Review previous changes with git log
 7. Hellow World, I love using git.
 
-exampl_file.txt
+This is me updating this file on Github, a NOT recommended process.
